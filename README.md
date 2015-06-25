@@ -26,9 +26,9 @@ download install scratch 2.0 offline
 
 scratch download : https://scratch.mit.edu/scratch2download/
 
-once installed open server folder->scratch_n_sketch.exe and click start.the server will auto search and connect and you're ready to start scratching.
+once installed open server folder->scratch_n_sketch.exe and click start. The server will auto search and connect.You're ready to start scratching. (you'll get a connectional successful log)
 
-open scratch app->file->new then hold shift while clicking file->new->import experimental http extension->open blocks folder and load scratch_blocks.s2e
+open scratch app->file->new .Hold shift while clicking file->new->import experimental http extension. Open blocks folder and load scratch_blocks.s2e
 
 you can always find the blocks in the more blocks section.
 
